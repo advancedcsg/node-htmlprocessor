@@ -1,5 +1,5 @@
 {
-  "name": "htmlprocessor",
+  "name": "@advanced/htmlprocessor",
   "description": "Process html file using special comments",
   "version": "0.2.6",
   "author": {
